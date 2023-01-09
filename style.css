@@ -1,0 +1,25 @@
+div.themes > div{
+    height: 20px;
+    width: 20px;
+    float: left;
+    margin-right: 5px;
+    cursor: pointer;
+    border: 1px solid #555;
+}
+
+.Light{
+    background-color: #fff;
+    color: #000;
+}
+.dark{
+    background-color: #444;
+    color: #000;
+}
+.yellow{
+    background-color: #ebdd62;
+    color: #000;
+}
+.green{
+    background-color: #4fa752;;
+    color: #000;
+}
